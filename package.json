@@ -16,7 +16,6 @@
   "dependencies": {
     "boxen": "^7.0.2",
     "chalk": "^5.2.0",
-    "ffmpeg": "^0.0.4",
-    "yargs": "^17.7.1"
+    "ffmpeg": "^0.0.4"
   }
 }
